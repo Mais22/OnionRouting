@@ -1,6 +1,6 @@
-#CryingOnion - One onion routing implementation
+# CryingOnion - One onion routing implementation
 
-#Introduction
+# Introduction
 
 CryingOnion is an onion routing implementation that lets a client send HTTP requests through the help of a network of nodes.
 Encryption is used to ensure the security of the data sent. This way the privacy of users can be maintained to a greater 
